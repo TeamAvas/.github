@@ -5,7 +5,6 @@
 * MiniGameAPI
 * S3DItemToolS
 * MagicSpell
-* CostumePlus
 * AdvancedNetherite
 
 # PocketMine-MP Virions of Avas
