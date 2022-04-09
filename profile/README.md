@@ -1,5 +1,5 @@
 # PocketMine-MP Plugins of Avas
-* Since 2017 ~ ing
+* Since 2017 ~ 2022 (MOVED organization)
 
 # Representative Plugins
 * MiniGameAPI
